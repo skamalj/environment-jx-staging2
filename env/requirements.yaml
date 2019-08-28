@@ -10,6 +10,9 @@ dependencies:
 - name: nodejs-hello-world-6
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
+- name: nodejs-hello-world-8
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: nodetest5
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
